@@ -7,5 +7,5 @@
 	remote = https://github.com/ypolosov/subrepo-test-sub-project.git
 	branch = master
 	commit = c93788d9a5758964dc8acf9248eb4ed606d91b3a
-	parent = none
+	parent = b1279b8a656578380191eabd35a680ec8ecbea0b
 	cmdver = 0.3.1
